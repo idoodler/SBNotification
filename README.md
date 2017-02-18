@@ -3,7 +3,7 @@ Simple Statusbar Notification written in Swift.
 
 It allows you to display notifications right on the StatusBar. Tap handlers are also supported!
 
-Either import the ready framework or drag the xCode `SBNotification.xcodeproj` into your project to refference it.
+Either import the ready framework or drag `SBNotification.xcodeproj` into your project to reference it.
 Then import SBNotification
 
 Example:
